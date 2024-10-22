@@ -1,0 +1,40 @@
+Copy these commands in Terminal
+
+Question 1
+==========
+
+g++ question01.cpp question01_driver.cpp -o hospitalBillingSystem
+./hospitalBillingSystem
+
+Question 2
+==========
+
+g++ question02.cpp question02_driver.cpp -o eventManagement
+./eventManagement
+
+
+Question 3
+==========
+
+g++ question03.cpp question03_driver.cpp -o transactionSystem
+./transactionSystem
+
+Question 4
+==========
+
+g++ question04.cpp question04_driver.cpp -o vectorOperations
+./vectorOperations
+
+
+Question 5
+==========
+
+g++ question05.cpp question05_driver.cpp -o checkoutSystem
+./checkoutSystem
+
+
+Question 6
+==========
+
+g++ question06.cpp question06_driver.cpp -o houseInvestment
+./houseInvestment
